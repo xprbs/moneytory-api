@@ -45,6 +45,8 @@ Moneytory merupakan sebuah aplikasi yang berfokus pada pencatatan keuangan masuk
 | Front-End  |  Flutter | xx
 
 <br>
+
+
 # Change Log
 
 ------------
@@ -55,6 +57,8 @@ Moneytory merupakan sebuah aplikasi yang berfokus pada pencatatan keuangan masuk
 - 2 Feb 2021 - `Add .env`
 
 - 2 Feb 2021 - `Fix JWT Expire`
+
+
 
 # Author
 
